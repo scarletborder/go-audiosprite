@@ -2,7 +2,13 @@
 
 make for my own HTML5 game project. 
 
-currently only support `.wav`
+currently only support `.wav`,`.ogg`,`.mp3`
+
+## prerequisites
+
+`ffmpeg`
+
+
 
 ## usage
 
